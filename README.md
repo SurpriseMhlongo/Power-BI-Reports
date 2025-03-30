@@ -1,5 +1,5 @@
-# Power-BI-Reports
-Power BI Sales Analytics Dashboard - Business Requirements
+# Project title : OutletOptics_Sales
+Business Requirements
 1. Project Overview
 
 Objective: Develop an interactive Power BI dashboard to analyze sales performance, item distribution, and outlet metrics for a retail business.
